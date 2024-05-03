@@ -1,4 +1,4 @@
-**Explanation: **
+Explanation: 
 
 Program tersebut adalah sebuah program Java yang digunakan untuk menghitung luas dan keliling dari berbagai bangun datar seperti persegi, persegi panjang, segitiga, dan lingkaran. User diminta untuk memilih bangun datar yang ingin dihitung, kemudian memasukkan nilai-nilai yang diperlukan (misalnya panjang sisi, panjang, lebar, alas, tinggi, atau jari-jari). Setelah itu, program akan menghitung luas dan keliling berdasarkan input user dan menampilkannya.
 
